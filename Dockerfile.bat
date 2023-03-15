@@ -1,1 +1,1 @@
-docker build -t frombat --file Dockerfile
+docker build -t frombat --file Dockerfile .
