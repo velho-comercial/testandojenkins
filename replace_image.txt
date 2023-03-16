@@ -1,0 +1,1 @@
+start C:\\putty\\putty.exe -ssh 134.122.114.50 -l root -pw 23@!shhFTP -m substituir_imagem.txt
