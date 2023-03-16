@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Encontre Prestadores de Serviços' });
+  res.render('index', { title: 'Encontre Prestadores de Serviços em São Joaquim da Barra - SP' });
 });
 
 
